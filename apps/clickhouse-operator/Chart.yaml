@@ -23,6 +23,6 @@ version: 0.21.2
 appVersion: "1.0"
 
 dependencies:
-- name: altinity-clickhouse-operator
-  version: 0.21.2
-  repository: https://docs.altinity.com/clickhouse-operator/
+  - name: altinity-clickhouse-operator
+    version: 0.23.2
+    repository: https://docs.altinity.com/clickhouse-operator/
